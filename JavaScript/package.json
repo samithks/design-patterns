@@ -1,0 +1,22 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "Learning the javascript design patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samithks/design-patterns.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Samith K S <samith.sarasan@perfomatix.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samithks/design-patterns/issues"
+  },
+  "homepage": "https://github.com/samithks/design-patterns#readme"
+}
