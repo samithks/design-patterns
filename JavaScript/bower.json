@@ -1,0 +1,25 @@
+{
+  "name": "jspatterns",
+  "description": "Learning the javascript design patterns.",
+  "main": "index.js",
+  "authors": [
+    "Samith K S <samithsarasan@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "JavaScript",
+    "DesignPatterns"
+  ],
+  "homepage": "https://github.com/samithks/design-patterns",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
